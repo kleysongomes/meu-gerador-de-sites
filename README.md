@@ -6,8 +6,7 @@
 
 Um gerador de sites "no-code" intuitivo que permite a qualquer pessoa, mesmo sem conhecimento técnico, criar uma página web profissional, responsiva e pronta para ser publicada. O projeto utiliza uma interface de edição moderna e um fluxo de publicação simplificado com monetização via doação PIX.
 
-![Captura de tela do editor](https://i.imgur.com/6a545d.jpg) 
-*(Sugestão: troque o link acima por uma captura de tela mais recente do seu editor final)*
+<img width="1903" height="892" alt="image" src="https://github.com/user-attachments/assets/90b528f5-fb31-4c4d-ae07-7dffdc75509b" />
 
 ---
 
